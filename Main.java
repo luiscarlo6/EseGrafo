@@ -12,6 +12,7 @@ public class Main {
     	a2 = new Arco("tres","cuatro");
     	
 	System.out.println("\nEstos se parecen a los arcos!s=\n");
+	System.out.println("\nEs que son Arcos!\n");
 	System.out.println(a1.toString());
     	System.out.println(a2.toString());
     	   	
