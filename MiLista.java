@@ -10,7 +10,7 @@ public class MiLista<E> implements Lista<E>{
      * con un centinela.
      * La primera "caja" esta vacia.
      *
-     * http://es.wikipedia.org/wiki/Lista_(informática)#Nodos_Centinelas
+     * http://es.wikipedia.org/wiki/Lista_(informatica)#Nodos_Centinelas
      */
 
     /*
